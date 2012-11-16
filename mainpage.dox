@@ -4,7 +4,7 @@
         QtZeroConf is a high-level Zeroconf interface for Qt-based client-server
         applications.
 
-        About Zero configuration networking
+        About zero configuration networking
         ===================================
 
         Zeroconf simplifies the task of finding and connecting to services

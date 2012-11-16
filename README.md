@@ -6,7 +6,7 @@ A high-level Zeroconf interface for Qt-based client-server applications.
 https://github.com/johanneshilden/qtzeroconf  
 http://atomic.batcave.net/
 
-## About Zero configuration networking
+## About zero configuration networking
 
 Zeroconf simplifies the task of finding and connecting to services on a local area network. There are normally three steps involved in this process:
 
