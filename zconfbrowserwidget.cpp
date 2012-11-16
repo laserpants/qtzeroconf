@@ -59,8 +59,8 @@ public:
 /*!
     \class ZConfBrowserWidget
 
-    \brief QTreeWidget-based widget for browsing and displaying available
-    Zeroconf services on the local network.
+    \brief QTreeWidget-based widget for browsing and displaying Zeroconf
+    services available on the local network.
  */
 
 /*!
