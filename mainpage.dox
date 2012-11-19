@@ -16,9 +16,9 @@
 
         The first step concerns the server, which could be a hardware device or
         an application that advertises its service on the network (e.g., a chat
-        or file sharing software). The other two steps allow a client to
-        search for a service of a particular type and connect to it without
-        having to know the host machine's IP address and port number.
+        or file sharing software). The other two steps enables a client to
+        search for a service of some type and connect to it without having to
+        know the host machine's IP address and port number.
 
         About Avahi
         ===========

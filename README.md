@@ -14,7 +14,7 @@ Zeroconf simplifies the task of finding and connecting to services on a local ar
 2. browsing for available services, and
 3. resolving a service to an actual IP address and port.
 
-The first step concerns the server, which could be a hardware device or an application that advertises its service on the network (e.g., a chat or file sharing software). The other two steps allow a client to search for a service of a particular type and connect to it without having to know the host machine's IP address and port number.
+The first step concerns the server, which could be a hardware device or an application that advertises its service on the network (e.g., a chat or file sharing software). The other two steps enables a client to search for a service of some type and connect to it without having to know the host machine's IP address and port number.
 
 ### About Avahi
 
