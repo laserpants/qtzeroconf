@@ -4,7 +4,7 @@ A high-level Zeroconf interface for Qt-based client-server applications.
 
 (c) 2012 Johannes Hild&eacute;n   
 https://github.com/johanneshilden/qtzeroconf  
-http://atomic.batcave.net/
+http://atomic.batcave.net/qtzeroconf/doxygen/
 
 ## About zero configuration networking
 
