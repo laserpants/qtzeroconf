@@ -21,7 +21,7 @@
 #define ZCONFSERVICEBROWSER_H
 
 #include <QObject>
-#include <stdint-gcc.h>
+#include <stdint.h>
 #include <avahi-client/lookup.h>
 
 struct ZConfServiceEntry
